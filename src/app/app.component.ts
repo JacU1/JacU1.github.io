@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'XTrades-Task-Project';
+
+  buttonClick() : void {
+    alert("Button click");
+  }
 }
