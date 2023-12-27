@@ -1,27 +1,32 @@
-# XTradesTaskProject
+# XTrades Mobile View Recruitment Task View
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+A simple project showcasing a reactive view using HTML, CSS, and Bootstrap 5. Made just in 2h + 30 minutes to deploy on github pages.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Description](#description)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
 
-## Code scaffolding
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This project is a small web application that demonstrates a reactive user interface built with HTML, CSS, and Bootstrap 5. The goal is to provide a clean and responsive layout for users to interact with.
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Responsive design using Bootstrap 5.
+- Clean and minimalistic user interface.
+- Reactive elements for enhanced user experience.
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Include images or gifs showcasing your project's interface. You can add them to the repository and reference them here.
+<img width="475" alt="Zrzut ekranu 2023-12-27 o 22 30 48" src="https://github.com/JacU1/XTradesTaskProject/assets/38460072/8aa19c70-79e4-4448-a2fd-5fc21531e10f">
 
-## Running end-to-end tests
+<img width="621" alt="Zrzut ekranu 2023-12-27 o 22 31 06" src="https://github.com/JacU1/XTradesTaskProject/assets/38460072/fe44c02f-751e-4066-9c25-812bdcd5adac">
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<img width="1411" alt="Zrzut ekranu 2023-12-27 o 22 31 25" src="https://github.com/JacU1/XTradesTaskProject/assets/38460072/b7201249-986a-4f4c-9c29-13a0cef50af8">
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Usage
+Check out live version on https://jacu1.github.io/XTradesTaskProject/
